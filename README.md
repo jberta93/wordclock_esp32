@@ -92,4 +92,4 @@ residui (1–4 minuti oltre il multiplo di 5).
 
 ## 📄 Licenza
 
-Rilascia il progetto sotto la licenza che preferisci (es. MIT). Aggiungi un file `LICENSE` se vuoi renderla esplicita.
+Distribuito sotto licenza **MIT** — vedi il file [`LICENSE`](LICENSE).
