@@ -1,5 +1,7 @@
 # WordClock ESP32 🕐
 
+🌐 **Italiano** · [English](README.en.md)
+
 Orologio a parole (*word clock*) in **italiano** basato su ESP32, LED indirizzabili WS2812B e modulo RTC DS1307.
 L'ora viene mantenuta dall'RTC e sincronizzata automaticamente via **NTP** attraverso il Wi-Fi.
 
