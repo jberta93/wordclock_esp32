@@ -1,0 +1,18 @@
+# Build output di arduino-cli / Arduino IDE
+/build/
+*.hex
+*.bin
+*.elf
+*.map
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.theia/
+*.swp
+
+# Credenziali Wi-Fi salvate localmente (se mai esportate)
+secrets.h
